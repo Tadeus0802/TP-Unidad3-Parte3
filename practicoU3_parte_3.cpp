@@ -15,9 +15,9 @@ void PuntoD();
 
 int main()
 {
-    // PuntoA();
-    // PuntoB();
-    // PuntoC();
+    PuntoA();
+    PuntoB();
+    PuntoC();
     PuntoD();
 
     return 0;
