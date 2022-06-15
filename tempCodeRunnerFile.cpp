@@ -1,0 +1,3 @@
+length(); 
+            ESPACIO
+            cout<<text;
